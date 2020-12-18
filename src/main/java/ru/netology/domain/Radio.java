@@ -4,7 +4,6 @@ public class Radio {
     private int maxNumberRadio;
     private int minNumberRadio;
     private int currentNumberRadio;
-
     private int maxVolumeSound;
     private int minVolumeSound;
     private int currentVolumeSound;
